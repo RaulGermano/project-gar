@@ -2,7 +2,7 @@
 
 - Related Activities Management - GAR
 - Gerenciador de Atividades Relacionadas - GAR
-<br />
+
 **Sistema em faze de desenvolvimento.**
 
 Software para oferecer controle das atividades de um grupo. Será possível um gestor, líder de equipe ou até mesmo todos os participantes do grupo terem acesso e controle em tempo real de suas tarefas. Monitorar o tempo gasto em determinada atividade, podendo controlar e definir qual atividade requer maior atenção.  

@@ -1,4 +1,5 @@
 # project-gar
+<br />
 - Related Activities Management - GAR
 - Gerenciador de Atividades Relacionadas - GAR
 <br />

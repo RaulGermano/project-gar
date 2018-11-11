@@ -14,4 +14,5 @@ O **GAR** é uma aplicação Web e até o momento, para o seu desenvolvimento es
 
 
 *Raul Germano*
+
 https://github.com/RaulGermano
